@@ -183,7 +183,7 @@ $OPENAIR_HOME/openair2/LAYER2/MAC/myVars.h
 
 $OPENAIR_HOME/openair2/LAYER2/MAC/utility.h
 
-
+### [Compile and Execute](https://github.com/chen-chi-wang/Thesis/blob/master/RELEASE_NOTE.md)
 
 
 
