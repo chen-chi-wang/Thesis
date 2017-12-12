@@ -1,0 +1,39 @@
+[UE_PROC] UE 0, RNTI 405f
+[UE PROC] RSRP[0] -114.28 dBm/RE, RSSI -89.51 dBm, RSRQ[0] 9.03 dB, N0 -133 dBm/RE (NF -0.8 dB)
+[UE PROC] UE mode = PUSCH (3)
+[UE PROC] timing_advance = 0
+[UE PROC] Po_PUSCH = 19 dBm (PL 114 dB, Po_NOMINAL_PUSCH -108 dBm, PHR 4 dB)
+[UE PROC] Po_PUCCH = 16 dBm (Po_NOMINAL_PUCCH -108 dBm, g_pucch 10 dB)
+[UE PROC] RX spatial power eNB0: [44 44; 44 45] dB
+[UE PROC] RX total power eNB0: 48 dB, avg: 48 dB
+[UE PROC] RX total power lin: 110944, avg: 108286, RX total noise lin: 0, avg: 2159
+[UE PROC] effective SINR 0.00 dB
+[UE PROC] Wideband CQI eNB 0: 127 dB, avg: 17 dB
+[UE PROC] Subband CQI eNB0 (Ant 0): [7 7 7 6 6 7 7] dB
+[UE PROC] Subband CQI eNB0 (Ant 1): [6 6 7 7 7 7 8] dB
+[UE PROC] Subband PMI eNB0 (Ant 0): [(0 12500) (0 23248) (0 6940) (0 5368) (0 15748) (0 1992) (0 2792)]
+[UE PROC] Subband PMI eNB0 (Ant 1): [(0 24576) (0 -13748) (0 -41132) (0 -35160) (0 -23140) (0 21188) (0 11376)]
+[UE PROC] PMI Antenna selection eNB0 : [0 0 0 1 1 0 1]
+[UE PROC] Quantized PMI eNB 0 (max): 0
+[UE PROC] Quantized PMI eNB 0 (both): 2222222,2233332
+[UE PROC] RRC status = 4
+[UE PROC] Transmission Mode 2 (mode1_flag 0)
+[UE PROC] PBCH err conseq 0, PBCH error total 5, PBCH FER 0
+[UE PROC] Saved PMI for DLSCH eNB 0 : 1111111 (0x1a2d4fa0)
+[UE PROC] eNB 0: dl_power_off = 1
+[UE PROC] DL mcs1 (dlsch cw1) 0
+[UE PROC] DL mcs2 (dlsch cw2) 0
+[UE PROC] DLSCH Total 3, Error 0, FER 0
+[UE PROC] DLSCH (SI) Total 31, Error 1
+[UE PROC] DLSCH (RA) Total 1, Error 0
+[UE PROC] DLSCH Bitrate 0kbps
+[UE PROC] Total Received Bits 0kbits
+[UE PROC] IA receiver 0
+EOF
+F
+
+F
+
+OF
+
+F

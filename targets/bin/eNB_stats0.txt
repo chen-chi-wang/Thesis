@@ -1,0 +1,69 @@
+[eNB PROC] eNB 0/1 Frame 84: RX Gain 130 dB, I0 -98 dBm (29,30) dB 
+[eNB PROC] PRB I0 (FE.0.0.0): -120 -100 -101 -100 -101 -100 -102 -117 -120 -117 -117 -117 -120 -117 -117 -117 -117 -117 -117 -117 -117 -117 -117 -120 -120 
+
+[eNB PROC] PERFORMANCE PARAMETERS
+[eNB PROC] Total DLSCH bits successfully transmitted 1 kbits in 85 frame(s)
+[eNB PROC] Total DLSCH average system throughput 0 kbps
+[eNB PROC] Total DLSCH successful transmissions 9 in 85 frame(s)
+
+[eNB PROC] UE 0 (405f) Power: (40,40) dB, Po_PUSCH: (-108,-108) dBm, Po_PUCCH (-87/-108) dBm, Po_PUCCH1 (-130,-102) dBm,  PUCCH1 Thres 0 dBm 
+   harq 0: DL mcs 0, UL mcs 10, UL rb 6, delta_TF 269
+   harq 1: DL mcs 0, UL mcs 10, UL rb 6, delta_TF 269
+   harq 2: DL mcs 1, UL mcs 10, UL rb 6, delta_TF 269
+   harq 3: DL mcs 0, UL mcs 10, UL rb 6, delta_TF 269
+   harq 4: DL mcs 0, UL mcs 10, UL rb 6, delta_TF 269
+   harq 5: DL mcs 3, UL mcs 10, UL rb 6, delta_TF 269
+   harq 6: DL mcs 0, UL mcs 10, UL rb 6, delta_TF 269
+   harq 7: DL mcs 7, UL mcs 10, UL rb 6, delta_TF 269
+[eNB PROC] Wideband CQI: (0,0) dB
+[eNB PROC] Subband CQI:     0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 
+[eNB PROC] DL TM 2, DL_cqi 14, DL_pmi_single 0
+[eNB PROC] DL Subband CQI: 15 15 15 15 15 15 15  0  0  0  0  0  0 
+[eNB PROC] Timing advance 0 samples (0 16Ts), update -10
+[eNB PROC] Mode = PUSCH(3)
+[eNB PROC] UE_id_mac = 0, RRC status = 4
+[eNB PROC] SR received/total: 2/37 (diff 35)
+[eNB PROC] ULSCH errors/attempts per harq (per round): 
+   harq 0: 1/28 (fer 0) (11/28, 10/11, 6/10, 4/6)
+   harq 1: 0/24 (fer 0) (15/24, 15/15, 9/15, 4/9)
+   harq 2: 1/26 (fer 0) (13/26, 13/13, 9/13, 3/8)
+   harq 3: 2/18 (fer 0) (12/18, 12/12, 10/12, 10/10)
+   harq 4: 3/21 (fer 0) (9/21, 9/9, 6/8, 5/6)
+   harq 5: 2/25 (fer 0) (13/25, 12/12, 10/12, 8/10)
+   harq 6: 2/29 (fer 0) (11/29, 11/11, 7/11, 5/7)
+   harq 7: 2/22 (fer 0) (13/22, 13/13, 11/13, 7/11)
+[eNB PROC] ULSCH errors/attempts total 13/193 (97/193, 95/96, 68/94, 46/67): 
+[eNB PROC] DLSCH errors/attempts per harq (per round): 
+   harq 0: 0/2 (1/1/2, 0/1/1, 1/0/1, 0/0/0)
+   harq 1: 0/1 (1/0/1, 0/0/0, 0/0/0, 0/0/0)
+   harq 2: 0/1 (0/1/1, 1/0/1, 0/0/0, 0/0/0)
+   harq 3: 0/1 (0/1/1, 1/0/1, 0/0/0, 0/0/0)
+   harq 4: 0/1 (0/1/1, 0/1/1, 1/0/1, 0/0/0)
+   harq 5: 0/1 (1/0/1, 0/0/0, 0/0/0, 0/0/0)
+   harq 6: 0/1 (1/0/1, 0/0/0, 0/0/0, 0/0/0)
+   harq 7: 0/1 (0/1/1, 1/0/1, 0/0/0, 0/0/0)
+[eNB PROC] DLSCH errors/attempts total 0/9 (5/9, 2/5, 0/2, 0/0): 
+[eNB PROC] DLSCH total bits from MAC: 1kbit
+[eNB PROC] DLSCH total bits ack'ed: 1kbit
+[eNB PROC] DLSCH Average throughput (100 frames): 0kbps
+[eNB PROC] Transmission Mode 2
+[eNB PROC] RB Allocation on Sub-bands: 1 0 0 0 0 0 0 
+[eNB PROC] Total Number of Allocated PRBs = 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EOF
+F

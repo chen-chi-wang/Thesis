@@ -169,19 +169,19 @@ Compares with the original fairness algorithm, the RB re-allocation determined b
 <img src="https://i.imgur.com/5wGroDX.png" width="374"> &nbsp;<img src="https://i.imgur.com/zIRjb6g.png" height="257">
 
 ## Related Code
-{openair_dir}/targets/SIMU/EXAMPLES/OSD/WEBXML/template_41.xml
+$OPENAIR_HOME/targets/SIMU/EXAMPLES/OSD/WEBXML/template_41.xml
 
-{openair_dir}/openair2/UTIL/OTG/otg_tx.c
+$OPENAIR_HOME/openair2/UTIL/OTG/otg_tx.c
 
-{openair_dir}/openair2/UTIL/OTG/otg_rx.c
+$OPENAIR_HOME/openair2/UTIL/OTG/otg_rx.c
 
-{openair_dir}/openair2/LAYER2/MAC/pre_processor.c
+$OPENAIR_HOME/openair2/LAYER2/MAC/pre_processor.c
 
-{openair_dir}/openair2/LAYER2/MAC/eNB_scheduler_dlsch.c
+$OPENAIR_HOME/openair2/LAYER2/MAC/eNB_scheduler_dlsch.c
 
-{openair_dir}/openair2/LAYER2/MAC/myVars.h
+$OPENAIR_HOME/openair2/LAYER2/MAC/myVars.h
 
-{openair_dir}/openair2/LAYER2/MAC/utility.h
+$OPENAIR_HOME/openair2/LAYER2/MAC/utility.h
 
 
 
