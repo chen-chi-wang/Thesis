@@ -1,4 +1,15 @@
-# Thesis
+# Multi-Access Edge Computing-Enabled Channel-Aware Video Streaming for 4G LTE
+## Table of Contents
+- [Abstract](#abstract)
+- [Introduction](#introduction)
+    - [Objective](#objective)
+- [LTE Scheduling over Radio Interface](#lte-scheduling-over-radio-interface)
+    - [Our MEC Scenario](#our-mec-scenario)
+- [Realization](#realization)
+- [Implementation](#implementation)
+- [Experiment Results](#experiment-results)
+- [Related Code](#related-code)
+- [Compilation and Execution](https://github.com/chen-chi-wang/Thesis/blob/master/RELEASE_NOTE.md)
 
 ## Abstract
 
@@ -183,7 +194,7 @@ $OPENAIR_HOME/openair2/LAYER2/MAC/myVars.h
 
 $OPENAIR_HOME/openair2/LAYER2/MAC/utility.h
 
-### [Compile and Execute](https://github.com/chen-chi-wang/Thesis/blob/master/RELEASE_NOTE.md)
+### [Compilation and Execution](https://github.com/chen-chi-wang/Thesis/blob/master/RELEASE_NOTE.md)
 
 
 
